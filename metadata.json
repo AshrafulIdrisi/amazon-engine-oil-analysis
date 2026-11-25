@@ -1,0 +1,6 @@
+{
+  "name": "ApexLube AU - Amazon Australia Engine Oil Intelligence",
+  "description": "Dedicated Amazon Australia Engine Oil & Lubricants market intelligence platform (AUD). Track viscosities (5W-30, 5W-40, 0W-20, 15W-40), price per litre ($/L), competitor sales, and OEM approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
